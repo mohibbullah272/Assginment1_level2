@@ -1,4 +1,4 @@
-                            # TypeScript Q&A
+# TypeScript Q&A
 
 ### How does TypeScript help in improving code quality and project maintainability?
 
